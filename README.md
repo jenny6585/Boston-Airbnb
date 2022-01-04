@@ -65,3 +65,6 @@ from nltk.tokenize import word_tokenize
 
 - The rate for one night was mostly focused between $150~160. And the type, beds, bedrooms, bathroom, review of cleanliness and location were the features related to the price.
 
+
+### 7. Blog post
+https://medium.com/@jjenny6585/boston-airbnb-analysis-1bb56fb642a6
