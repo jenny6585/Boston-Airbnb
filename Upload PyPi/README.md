@@ -16,5 +16,5 @@ This package ables you to play a number guessing game. It simply tells you if yo
 
 ### 3.Overview
 
-Python package containing the number guessing game can be installed using ``` pip install lets_play_number_guess ```
+Python package containing the number guessing game can be installed using ``` pip install guess_number_game_jenny ```
 
